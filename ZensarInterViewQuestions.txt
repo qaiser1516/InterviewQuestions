@@ -1,0 +1,64 @@
+L1
+1. Viewdata, ViewBag, Tempdata 
+2. Tempdata value scope
+3. Exception handling in mvc 
+4. Filters in MVC
+5. Scaffolding in MVC
+6. Advantage of MVC over asp.net
+7. Partial view and how to use it
+8. Bundling and minification
+9. What is default route and its declaration 
+10. Views and use of layout
+11. Attribute routing and what is routing
+12. Different types of action result
+13. Ajax syntax 
+14. What is routing and Attributes routing
+15. Compile time exception and run time exception 
+16. Polymorphism and it’s type
+17. Inheritance use
+18. Abstract class and it’s use
+19. Interface Vs abstract class
+20. Dependency injection
+21. What is Abstraction
+22. Write a linq to join two table and get the result in an anonymous type 
+23. Syntax for left join using Linq
+24. Anonymous type
+25. URL example and syntax for default route, customer route and customer by I’d 
+26. Which approach will u use code first or database first and why with justification
+27. What are tuples and use.
+28. Reflection and use
+29. Delegate and use
+
+Database
+1. indexing
+2. Pk, fk and unique key
+3. Difference between delete and truncate
+4. What are views
+5. Are DML commands works for views
+6. How to insert data in views
+7. What are triggers
+8. What is cursor
+9. Is cursor preferred 
+10. Write a view joining two tables
+
+Angular 
+1. what are decorators 
+2. What is type script
+
+L2
+1. Solid principles
+2. Write a linq to filters only even number from array
+3. What are directive and give example of structural directive
+4. Directive and component difference
+5. What is acronyms in database
+6. Ngrepeat and ngfor used in which versions
+7. Document.load and windows.load difference
+8. How to insert value in JavaScript array 
+9. How to delete value in JavaScript array without using splice
+10. Explain any mvc filters in details
+11. Explain your project architecture 
+12. What is dependency injection and it’s importance
+13. Coleasce operator
+14. What to do to optimise a method taking longer time to execute.
+
+Scenraio Based :  Given a scenario where tables has 7 records with identity entry enabled then using delete command and then inserting the value then what will be the next id and truncate the table and insert the value then what will be the next id
